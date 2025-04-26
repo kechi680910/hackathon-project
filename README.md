@@ -17,5 +17,4 @@
 ## 安裝與使用方法
 1. 將專案 Clone 至本地端
    ```bash
-   git clone https://github.com/your-account/your-repo.git
-   cd your-repo
+   git clone https://github.com/kechi680910/hackathon-project
