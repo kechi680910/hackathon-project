@@ -21,5 +21,5 @@
 ## 安裝與使用方法
 1. Clone 專案到本地端
    ```bash
-   git clone https:https://github.com/kechi680910/hackathon-project
+   git clone https://github.com/kechi680910/hackathon-project
    
