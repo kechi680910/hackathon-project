@@ -38,7 +38,7 @@
 ![IMG_7652](https://github.com/user-attachments/assets/aefd132b-edb8-4e56-9574-1c0de762727e)
 
 圖片生成結果
-
+![IMG_0309](https://github.com/user-attachments/assets/f19e0345-7445-458a-9c8e-d6a1856c6c66)
 
 歷史資料編輯畫面
 
