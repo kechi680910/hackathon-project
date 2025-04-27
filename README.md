@@ -22,4 +22,10 @@
 1. Clone 專案到本地端
    ```bash
    git clone https://github.com/kechi680910/hackathon-project
+
+團隊成員
+
+張育倫 - 前端開發 / AI模組導入
+嚴稑榛 - 系統平台整合
+林婉君 - 系統環境測試 / 簡報美編排版
    
