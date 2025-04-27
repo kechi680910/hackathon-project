@@ -14,7 +14,7 @@
 ## 技術架構
 - **前端**: Bubble.io
 - **後端**: Amazon Bedrock
-- **AI技術**: 整合文字生成及圖片進行圖像生成，參考資料庫中的歷史生成資料，重新編輯設計。
+- **AI技術**: AWS NovaCanvas整合文字生成及圖片進行圖像生成，參考資料庫中的歷史生成資料，重新編輯設計。
 - **資料庫**: DB（儲存歷史生成資料）
 - **部署平台**: GitHub Pages
 
@@ -32,10 +32,13 @@
 ## 專案畫面截圖
 
 主畫面
+![IMG_7651](https://github.com/user-attachments/assets/6c049b8a-33f8-4f24-aac7-7488ab3490ad)
 
 文字生成結果
+![IMG_7652](https://github.com/user-attachments/assets/aefd132b-edb8-4e56-9574-1c0de762727e)
 
 圖片生成結果
+
 
 歷史資料編輯畫面
 
